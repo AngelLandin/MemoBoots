@@ -1,6 +1,6 @@
 # 📚 Memoboots
 
-**Memoboots** es una aplicación educativa inteligente diseñada para ayudarte a aprender y recordar información de manera efectiva a través de tarjetas de estudio, quizzes interactivos y recursos personalizados. 💡
+**Memoboots** es una aplicación educativa dinámica diseñada para ayudarte a aprender y recordar información de manera efectiva a través de tarjetas de estudio, quizzes interactivos y recursos personalizados con retroalimentación. 💡
 
 ---
 
@@ -26,9 +26,9 @@ Muchos estudiantes enfrentan dificultades para retener información a largo plaz
 
 - 🧑‍🎓 Estudiantes de secundaria, preparatoria y universidad que buscan mejorar su memoria y rendimiento académico.
 - 👩‍🏫 Profesores y tutores que deseen complementar sus clases con herramientas didácticas digitales.
-- 👨‍💻 Aprendices autodidactas interesados en temas técnicos, científicos o de preparación para exámenes (PISA, SAT, etc.).
+- 👨‍💻 Aprendices autodidactas interesados en temas técnicos, científicos o de preparación para exámenes.
 
 ---
 
-¡Comienza a aprender como nunca antes con **Memoboots**! 🌱📈
+📖 ¡Comienza a aprender como nunca antes con **Memoboots**! 🌱📈
 
